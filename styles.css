@@ -1,0 +1,135 @@
+body{
+    overflow-x: hidden;
+    background-color: rgb(253, 249, 243);
+    
+}
+
+
+
+
+
+
+
+
+
+/* top div */
+.top-div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    left: 70px;
+}
+.top-div img{
+    cursor: pointer;
+}
+.top-div-1{
+    background-color: #D6E5FA;
+    border-radius: 10px;
+}
+.top-div-1> img{
+    width: 30px;
+}
+.top-div-1 > input{
+    outline: 0;
+    border: 0;
+    background-color: #D6E5FA;
+    border-radius: 10px;
+}
+.image-lang-help{
+    display: flex;
+    gap: 1rem;
+}
+.images-div > figcaption{
+    font-size: 0.60rem;
+}
+.images-div > img{
+    width: 27px;
+}
+.top2-div{
+    background-color: #D6E5FA;
+    border-style: groove none groove none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* middle div */
+.middle1-div{
+    background-color: #D6E5FA;
+}
+.middle1-1-div{
+    position: relative;
+    left: 400px;
+}
+.carousel { 
+    width:774px;
+    height: 580px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.middle2-div{
+    background-color: #D6E5FA;
+}
+
+
+
+
+
+
+.middle3-div{
+    background-color: #D6E5FA;
+    
+}
+.middle3-div > div{
+    position: relative;
+    left: 100px;
+}
+.middle3-div iframe{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+
+
+
+
+.middle4-div{
+    background-color: #D6E5FA;
+}
+
+
+
+
+
+/* bottom div */
+.bottom1-div >a> img{
+    width: 30px;
+}
+.bottom1-div > span{
+
+    font-weight: 50;
+}
+.bottom-div{
+    background-color: #D6E5FA;
+}
